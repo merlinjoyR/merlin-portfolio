@@ -32,4 +32,4 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 The website is deployed using GitHub Pages.
 
-Live Website: Add your published GitHub Pages URL here.
+**Live Website:** https://merlinjoyr.github.io/merlin-portfolio/
