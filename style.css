@@ -527,7 +527,10 @@ grid-template-columns: 1fr;
 .social-links {
     flex-wrap: wrap;
 }
-```.profile-circle {
+```
+
+}
+.profile-circle {
     width: 150px;
     height: 150px;
     margin: 0 auto 20px;
@@ -542,6 +545,4 @@ grid-template-columns: 1fr;
     object-fit: cover;
     object-position: center;
     display: block;
-}
-
 }
